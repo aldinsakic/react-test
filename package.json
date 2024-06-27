@@ -1,7 +1,7 @@
 {
-  "name": "my-electron-app",
+  "name": "test-streaming-site",
   "version": "1.0.0",
-  "description": "Hello World!",
+  "description": "testing out react, learning and having fun with it",
   "main": "main.js",
   "author": "aldinsakic",
   "license": "MIT",
